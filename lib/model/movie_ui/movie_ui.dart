@@ -118,7 +118,7 @@ class animeMovieDetailsHeader extends StatelessWidget {
                   text: movie.plot
               ),
               TextSpan(
-                  text: "More...",
+                  text: "Show More...",
                   style: TextStyle(
                       color: Colors.indigoAccent
                   )
